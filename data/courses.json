@@ -39,19 +39,6 @@
         "details": "Ready to make games in the amazing world of Unreal Engine 5? This 'critically-acclaimed' and 'insanely successful' Unreal Engine course was created in collaboration with Epic Games. The majority of the course has been fully updated and remastered to Unreal Engine 5. Existing students get all the new material for free. Learn how to create and mod video games using Unreal Engine 5, even if you're a complete beginner. Unreal is a free-to-use game development engine used by AAA studios and indie developers worldwide. It is a massive and powerful beast, but we break it down step-by-step so you can tame it. We start super simple so no prior experience of Unreal or coding is needed! With our online tutorials, you'll be amazed at what you can achieve. We believe project-based learning is the best way to learn Unreal Engine, so you’ll create 5 Unreal games! Already know Unreal and want to learn VR or Multiplayer? Check out our other Unreal courses, just look for the green leaf for our other world-class Unreal courses."
     },
     {
-        "id": "51A88B5A8B9A48B099519CD5F086A832",
-        "title": "Learn C# Programming (In Ten Easy Steps)",
-        "category_id": "03",
-        "rating": {
-            "number": 4.7,
-            "badge": "Excellent"
-        },
-        "total_view": 654,
-        "duration": "32 Hours",
-        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/14346_9972_8.jpg",
-        "details": "Learn C# Programming (in ten easy steps) [Version 2] is suitable for beginner programmers or anyone with experience in another programming language who needs to learn C# from the ground up. Step-by-step it explains how to write C# code to develop Windows applications using either the free Visual Studio Community Edition or a commercial edition of Microsoft Visual Studio (it even explains how to write C# programs using free tools for OS X). This is the completely revised and updated second version of this course. C# is one of the most widely used an important of all modern programming languages. If you need to learn C# quickly and painlessly, this is the perfect course. You will begin by learning the core features of programming – variables, constants, functions and data types. You will move on rapidly to learn about Object Orientation and the more advanced features of C# and the .NET framework such as file-handling, data-streaming, dealing with exceptions (errors) and overriding methods. Even if you start out as a complete beginner, by the end of this course you will have built a really solid foundation of programming knowledge and skills. All the source code of sample projects is provided ready for you to download, run and modify. The course also includes an eBook that provides even more information on the topics being discussed. And there are also interactive quizzes to test your understanding of each major topic. The course instructor, Huw Collingbourne, is Director of Technology with SapphireSteel Software, a company that specialises in Visual Studio development tools (written in C#) for professional programmers. Learn C# Programming (in ten easy steps) is the fastest and simplest way to help you make the move from coding novice to professional programmer. The first version of this course was launched in 2012. The current version has been completely re-made and expanded with numerous new lessons. As an added bonus, the complete version 1 of the course (almost 4 additional hours of video instruction) is also included as a free download."
-    },
-    {
         "id": "A989E17FB1B7468C934B4A953597630E",
         "title": "ASP.Net Web Forms Live Project",
         "category_id": "03",
@@ -65,19 +52,6 @@
         "details": "   This course is all about how to interact with the client, understand the requirements, break requirements into objects, create database design by identifying the relationships among objects, architect  the project, implement business objects, data access layer, business logic layer and presentation layer. You will also learn how to secure, compile and publish any web application. "
     },
     {
-        "id": "CB030F79338943EF9461EF9047D4FF35",
-        "title": "Learn Python: The Complete Python Programming Course",
-        "category_id": "03",
-        "rating": {
-            "number": 5,
-            "badge": "Excellent"
-        },
-        "total_view": 832,
-        "duration": "18 Hours",
-        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
-        "details": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!"
-    },
-    {
         "id": "28B2E56848BF4EEF8C889B361A08F4C1",
         "title": "1 Hour CSS",
         "category_id": "01",
@@ -89,6 +63,19 @@
         "duration": "1 Hour",
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/64605_e18f_5.jpg",
         "details": "Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. In this tutorial series you get to learn about CSS. CSS is the number design language for the web. CSS is easy to learn and it is used in most web development today. This course is a 1 hour course of action packed material. By the end of it you will have a firm understanding of the concepts of CSS. The best part is that this is for complete beginners! Coding is a fantastic career to get into and this is the first course you should take. All web developers start with CSS and it is by far the easiest language to learn. CSS stands for cascading style sheets and it is the what makes websites look good. Before CSS, websites didn't look good at all. Just think of all of the things you can do in 1 hour and imagine learning a whole new skill. That's why these 1 hour lessons are so valuable. Take a look at the reviews, they speak for themselves. What are you waiting for, enroll today."
+    },
+    {
+        "id": "51A88B5A8B9A48B099519CD5F086A832",
+        "title": "Learn C# Programming (In Ten Easy Steps)",
+        "category_id": "03",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 654,
+        "duration": "32 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/14346_9972_8.jpg",
+        "details": "Learn C# Programming (in ten easy steps) [Version 2] is suitable for beginner programmers or anyone with experience in another programming language who needs to learn C# from the ground up. Step-by-step it explains how to write C# code to develop Windows applications using either the free Visual Studio Community Edition or a commercial edition of Microsoft Visual Studio (it even explains how to write C# programs using free tools for OS X). This is the completely revised and updated second version of this course. C# is one of the most widely used an important of all modern programming languages. If you need to learn C# quickly and painlessly, this is the perfect course. You will begin by learning the core features of programming – variables, constants, functions and data types. You will move on rapidly to learn about Object Orientation and the more advanced features of C# and the .NET framework such as file-handling, data-streaming, dealing with exceptions (errors) and overriding methods. Even if you start out as a complete beginner, by the end of this course you will have built a really solid foundation of programming knowledge and skills. All the source code of sample projects is provided ready for you to download, run and modify. The course also includes an eBook that provides even more information on the topics being discussed. And there are also interactive quizzes to test your understanding of each major topic. The course instructor, Huw Collingbourne, is Director of Technology with SapphireSteel Software, a company that specialises in Visual Studio development tools (written in C#) for professional programmers. Learn C# Programming (in ten easy steps) is the fastest and simplest way to help you make the move from coding novice to professional programmer. The first version of this course was launched in 2012. The current version has been completely re-made and expanded with numerous new lessons. As an added bonus, the complete version 1 of the course (almost 4 additional hours of video instruction) is also included as a free download."
     },
     {
         "id": "559B3B3FE273485B90E9D6906AABDB9C",
@@ -117,6 +104,32 @@
         "details": "Take this Javascript training course and start learning Javascript today. As a business guy I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work. If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
     },
     {
+        "id": "500E84F6DC1E41FDBF04CB3555B1584F",
+        "title": "SQL Server Essentials, from Scratch",
+        "category_id": "05",
+        "rating": {
+            "number": 3.9,
+            "badge": "Good"
+        },
+        "total_view": 477,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/31592_2106_3.jpg",
+        "details": "You learned a little SQL, but you are ready to take the next step and really understand how databases work. Or maybe you are a complete beginner. Here’s a little secret. It’s not that complicated. That’s right. Databases are actually a very simple concept that starts with a simple Table just like a spreadsheet in Excel. Everything else in the database is built around this little concept of a table. With a little SQL Server knowledge, you can retrieve data yourself. You can automate your reporting. You can help management find information and troubleshoot problems. You can even transfer this knowledge to Oracle and MySQL. In this course, veteran consultant, Joey Blue, takes you through the essentials of SQL Server right through advanced topics such as backups, security, and indexes. This course is recommended for all business and IT professionals that want to advance their careers by understanding their corporate database."
+    },
+    {
+        "id": "BE13B6BAC91F4E3CBDE130A6FE71FE28",
+        "title": "Database Design",
+        "category_id": "05",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "total_view": 588,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/268632_7a4b_4.jpg",
+        "details": "We start off this course by taking our time to first look at what a database is and how it differs from a spreadsheet, website, filing cabinet, and so forth. We introduce SQL and talk about data definition language and data manipulation language. After about 4 solid videos of explaining databases and SQL, we dive into learning about entities and attributes. We apply all of these concepts to structure tables and relationships. We learn to design all of the relationships and I explain everything in depth. Most of the videos are on my chalkboard, explaining concepts. This is because it helps to fully understand database design before you dive into designing your own database. Once we go over all of the concepts of database design we will be designing databases from start to finish."
+    },
+    {
         "id": "A0825BA2A30D47D986ECB6F45FDEBD7C",
         "title": "Build Android Apps with App Inventor 2 - No Coding Required",
         "category_id": "02",
@@ -143,6 +156,19 @@
         "details": "If you're tired of spinning your wheels learning Swift or Android, this is the course for you. Authentication? You will learn it.  Hooks? Included.  Navigation? Of course! This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, 'props', 'state', and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it."
     },
     {
+        "id": "CB030F79338943EF9461EF9047D4FF35",
+        "title": "Learn Python: The Complete Python Programming Course",
+        "category_id": "03",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        },
+        "total_view": 832,
+        "duration": "18 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+        "details": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!"
+    },
+    {
         "id": "4D895D7461E2453DAF6CBD0A19AD2846",
         "title": "Android Material Design",
         "category_id": "02",
@@ -154,5 +180,18 @@
         "duration": "8 Hours",
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/598520_8095_3.jpg",
         "details": "Material design is a comprehensive guide for visual, motion, and interaction design across platforms and devices. This course talks about all the important material design specifications, colors, design guidelines, and also using material widgets along with material themes and concepts. Curious about Android Material Design? This is the your final stop where you will get information regarding material design specifications and the related widgets being used with material design themes. The best part of this course is that you will learn to make several complete android demo apps from scratch - two major apps and several small apps - based on material design guidelines. Enhance your application user interface designing skills by implementing all new materialistic features introduced in Android Lollipop 5.0. Styling of Android Application is very important and one of the most critical feature in designing the app. To make this difficult task easy, I have come up with this course of Android Material Design, which begins with the basics of the material design and proceeds with covering some really complicated and most interesting stuffs like Android Material Design Animation. We will also dive into the material design support library and implement it in our demo applications."
+    },
+    {
+        "id": "4B1ED7C5063F462A9FEC2D96DF716E0C",
+        "title": "NoSQL: Neo4j and Cypher",
+        "category_id": "05",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "total_view": 848,
+        "duration": "8 Hours",
+        "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/493288_287c_2.jpg",
+        "details": "I wanted to make querying graph data not only fun, but easy to learn, understand and use with this easy to follow hands on course for developers and in under 3 hours! Neo4js' Cypher language and property graph model is easy to understand and handle, especially for object oriented and relational developers."
     }
 ]
