@@ -1,7 +1,9 @@
 [
     {
         "id": "4E19AC8B6F8B4F6689FC25654DA6942C",
+        "price": 199,
         "title": "The Ultimate Guide to Game Development with Unity (Official)",
+        "category_name": "Game Development",
         "category_id": "04",
         "rating": {
             "number": 5,
@@ -14,7 +16,9 @@
     },
     {
         "id": "F88328672F7041F69E21793E22CABD41",
+        "price": 299,
         "title": "Develop Minecraft Plugins (Java)",
+        "category_name": "Game Development",
         "category_id": "04",
         "rating": {
             "number": 4.9,
@@ -27,7 +31,9 @@
     },
     {
         "id": "90B7CD5D45874B70AFAC58506A80FE9B",
+        "price": 99,
         "title": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+        "category_name": "Game Development",
         "category_id": "04",
         "rating": {
             "number": 4.8,
@@ -40,7 +46,9 @@
     },
     {
         "id": "A989E17FB1B7468C934B4A953597630E",
+        "price": 199,
         "title": "ASP.Net Web Forms Live Project",
+        "category_name": "Programming Languages",
         "category_id": "03",
         "rating": {
             "number": 4.8,
@@ -53,7 +61,9 @@
     },
     {
         "id": "757C3E7F92A8461DAD1573FC66CC5208",
+        "price": 99,
         "title": "WordPress 2022: The Complete WordPress Website Course",
+        "category_name": "No-Code Development",
         "category_id": "06",
         "rating": {
             "number": 4.5,
@@ -66,7 +76,9 @@
     },
     {
         "id": "28B2E56848BF4EEF8C889B361A08F4C1",
+        "price": 299,
         "title": "1 Hour CSS",
+        "category_name": "Web Development",
         "category_id": "01",
         "rating": {
             "number": 5,
@@ -79,7 +91,9 @@
     },
     {
         "id": "51A88B5A8B9A48B099519CD5F086A832",
+        "price": 399,
         "title": "Learn C# Programming (In Ten Easy Steps)",
+        "category_name": "Programming Languages",
         "category_id": "03",
         "rating": {
             "number": 4.7,
@@ -92,7 +106,9 @@
     },
     {
         "id": "AED1DEF6DA854E9A9C754621CFF278A5",
+        "price": 499,
         "title": "Liferay for Beginners Create Your Website Without Coding",
+        "category_name": "No-Code Development",
         "category_id": "06",
         "rating": {
             "number": 4.3,
@@ -105,7 +121,9 @@
     },
     {
         "id": "559B3B3FE273485B90E9D6906AABDB9C",
+        "price": 99,
         "title": "Kids Coding - Introduction to HTML, CSS and JavaScript!",
+        "category_name": "Web Development",
         "category_id": "01",
         "rating": {
             "number": 4,
@@ -118,7 +136,9 @@
     },
     {
         "id": "500E84F6DC1E41FDBF04CB3555B1584F",
+        "price": 199,
         "title": "SQL Server Essentials, from Scratch",
+        "category_name": "Database Design & Development",
         "category_id": "05",
         "rating": {
             "number": 3.9,
@@ -131,7 +151,9 @@
     },
     {
         "id": "57E3187C0EE14A82887C161F96FA18F2",
+        "price": 299,
         "title": "Javascript for Beginners",
+        "category_name": "Web Development",
         "category_id": "01",
         "rating": {
             "number": 4.8,
@@ -141,10 +163,12 @@
         "duration": "8 Hours",
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
         "details": "Take this Javascript training course and start learning Javascript today. As a business guy I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work. If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
-    },   
+    },
     {
         "id": "BE13B6BAC91F4E3CBDE130A6FE71FE28",
+        "price": 399,
         "title": "Database Design",
+        "category_name": "Database Design & Development",
         "category_id": "05",
         "rating": {
             "number": 4,
@@ -157,7 +181,9 @@
     },
     {
         "id": "A0825BA2A30D47D986ECB6F45FDEBD7C",
+        "price": 499,
         "title": "Build Android Apps with App Inventor 2 - No Coding Required",
+        "category_name": "Mobile Development",
         "category_id": "02",
         "rating": {
             "number": 4.8,
@@ -167,10 +193,12 @@
         "duration": "5 Hours",
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/919872_ed54_6.jpg",
         "details": "Everybody has a great idea for an app. The problem is, not many of those people have the skills or knowledge required to make that idea a reality. Building an app, regardless of its simplicity or platform, requires certain technical know-how like coding, UX/UI design, and more. App Inventor 2, however, cuts through all of the smoke and allows anyone – even those with no coding experience – to build Android apps from the ground up. This course will teach you how."
-    },    
+    },
     {
         "id": "CB030F79338943EF9461EF9047D4FF35",
+        "price": 299,
         "title": "Learn Python: The Complete Python Programming Course",
+        "category_name": "Programming Languages",
         "category_id": "03",
         "rating": {
             "number": 5,
@@ -183,7 +211,9 @@
     },
     {
         "id": "C08DA8F6CFA040C4B57ACB302748A5D1",
+        "price": 199,
         "title": "The Complete React Native + Hooks Course",
+        "category_name": "Mobile Development",
         "category_id": "02",
         "rating": {
             "number": 5,
@@ -193,10 +223,12 @@
         "duration": "12 Hours",
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/706020_6d7c_3.jpg",
         "details": "If you're tired of spinning your wheels learning Swift or Android, this is the course for you. Authentication? You will learn it.  Hooks? Included.  Navigation? Of course! This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices. Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry. We'll start by mastering the fundamentals of React, including JSX, 'props', 'state', and event handling. Source code is provided for each lecture, so you will always stay up-to-date with the course pacing.  Special attention has been paid to creating reusable components that you'll be able to make use of on your own fantastic projects. React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers. If you are new to React, or if you've been working to learn it but sometimes feel like you still don't quite 'get it', this is the React course for you! To learn React you have to understand it."
-    },   
+    },
     {
         "id": "4B1ED7C5063F462A9FEC2D96DF716E0C",
+        "price": 199,
         "title": "NoSQL: Neo4j and Cypher",
+        "category_name": "Database Design & Development",
         "category_id": "05",
         "rating": {
             "number": 4,
@@ -209,7 +241,9 @@
     },
     {
         "id": "4D895D7461E2453DAF6CBD0A19AD2846",
+        "price": 99,
         "title": "Android Material Design",
+        "category_name": "Mobile Development",
         "category_id": "02",
         "rating": {
             "number": 4.6,
@@ -222,7 +256,9 @@
     },
     {
         "id": "81843A18D1984A018B2DF6B86A681304",
+        "price": 99,
         "title": "Wix Master Course: Make A Website with Wix",
+        "category_name": "No-Code Development",
         "category_id": "06",
         "rating": {
             "number": 4.6,
@@ -233,5 +269,4 @@
         "thumbnail_url": "https://img-c.udemycdn.com/course/240x135/1223634_e5b9_4.jpg",
         "details": "Create a Wix Website from start to finish in 1 Day. Learn how to plan for creating your website (organizing your wording & photos). Learning the basic features of Wix and the advanced features of Wix. Learn what search engine optimization is (SEO) and how you can be found on Google, Yahoo, etc. Learn how to maintain your website and keep it up to date"
     }
-
 ]
